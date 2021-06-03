@@ -1,10 +1,7 @@
-# create-and-manage-cloud-resourses-google-cloud-challenge-lab
+# Google Cloud Facilitator Program 2021
 
-# Task 1 : 
-Create a project jumphost instance (zone: us-east1-b)
+We have to complete 30 Quest and 15 Skill badges to reach our Ultimate Milestone.
 
-# Task 2 : 
-Create a Kubernetes service cluster
+For that 15 Skill badges, we are supposed to complete our Challenge labs which has to commanded by ourself.
 
-# Task 3 : 
-Create the web server frontend
+In this Repos, I've given the all challenge lab Commands with each steps.
